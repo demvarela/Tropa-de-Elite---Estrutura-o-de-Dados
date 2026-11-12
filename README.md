@@ -1,4 +1,4 @@
-# Tropa-de-Elite-Estruturaco-de-Dados
+# Tropa-de-Elite-Estruturacao-de-Dados
 Alunos:
 Daniel Varela
 Endrik Thibes
